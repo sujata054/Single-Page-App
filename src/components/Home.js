@@ -3,7 +3,7 @@ import React from 'react'
 export default function Home() {
   return (
     <div>
-   This is the Home page
+   This is  Home page
     </div>
   );
 }
